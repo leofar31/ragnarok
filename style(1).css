@@ -1,0 +1,94 @@
+.corpo{
+    background-color: aliceblue;
+    height: 10px;
+    
+    
+}
+.pai {
+    background-color: black;
+    
+
+}
+.botoes {
+    display: flex;
+    position: relative;
+    left: 594px;
+    width: 215px;
+    height: 22px;
+    color: red;
+    font-size: 50px;
+    
+}
+.logo {
+   display: flex;
+   position: relative;
+    width: 500px;
+    left: 672px;
+}
+.b1 {
+    color: red;
+    left: -39px;
+    display: flex;
+    position: relative;
+    
+}
+.b2 {
+    color: red;
+    left: -15px;
+    display: flex;
+    position: relative;
+    
+}
+.b3 {
+    color: red;
+    left: 27px;
+    display: flex;
+    position: relative;
+    
+    
+}
+.b4 {
+    color: red;
+    left: 73px; 
+    display: flex;
+    position: relative;
+    
+    
+}
+.img1{
+    top: 70px;
+    display: flex;
+    position: relative;
+    left: 50px;
+}
+.p1 {
+    color: red;
+    width: 936px;
+    display: flex;
+    position: relative;
+    left: 964px;
+    font-size: 30px;
+    top: -393px;
+}
+.img2 {
+    display: flex;
+    position: relative;
+    top: -325px;
+    left: 50px;
+}
+.img3 {
+    display: flex;
+    position: relative;
+    top: -1316px;
+    width: 771px;
+    left: 915px;
+}
+.p2 {
+    color: red;
+    width: 936px;
+    display: flex;
+    position: relative;
+    left: 916px;
+    font-size: 30px;
+    top: -1304px; 
+}
