@@ -1,12 +1,12 @@
 .corpo{
     background-color: aliceblue;
-    height: 10px;
+    height: 500px;
     
     
 }
 .pai {
     background-color: black;
-    
+  
 
 }
 .botoes {
@@ -91,4 +91,7 @@
     left: 916px;
     font-size: 30px;
     top: -1304px; 
+}
+a {
+    height: 10px;
 }

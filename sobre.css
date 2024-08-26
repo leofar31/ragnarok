@@ -8,7 +8,7 @@
 }
 .pai {
     background-color: black;
-    height: 1574px;
+    height: 3040px;
     
 
 }
@@ -50,8 +50,8 @@
     display: flex;
     position: relative;
     left: 755px;
-    width: 215px;
-    height: 22px;
+    width: 0px;
+    height: 0px;
     color: red;
     font-size: 50px;
     top: -1366px;
@@ -102,7 +102,50 @@
     display: flex;
     position: relative;
     width: 1884px;
+    font-size: 73px;
+    top: -562px;
+    left: 851px;
+}
+.img6 {
+    display: flex;
+    position: relative;
+    top: -765px; 
+    left: 296px;
+    width: 479px;
+    
+}
+.p2 {
+    color: red;
+    display: flex;
+    position: relative;
+    width: 1834px;
     font-size: 35px;
-    top: -676px;
-    left: 977px;
+    top: -1875px;
+    left: 225px;
+}
+.p3 {
+    color: red;
+    display: flex;
+    position: relative;
+    width: 1257px;
+    font-size: 35px;
+    top: -1790px;
+    left: 805px;
+}
+.botao5 {
+    background-color: red;
+    display: flex;
+    position: relative;
+    width: 708px;
+    font-size: 87px;
+    top: -1732px;
+    left: 1070px;
+    height: 228px; ;
+
+}
+.b5 {
+    color: white;
+    left: 73px; 
+    display: flex;
+    position: relative;
 }

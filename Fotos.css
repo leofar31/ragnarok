@@ -1,0 +1,114 @@
+.pai {
+    background-color: black;
+    height: 1000px;
+    top: -9px;
+    display: flex;
+    position: relative;
+}
+.botoes {
+    display: flex;
+    position: relative;
+    left: -343px;
+    width: 215px;
+    height: 22px;
+    color: red;
+    font-size: 50px;
+    top: 316px;
+    
+}
+.b1 {
+    color: red;
+    left: -39px;
+    display: flex;
+    position: relative;
+    
+}
+.b2 {
+    color: red;
+    left: -15px;
+    display: flex;
+    position: relative;
+    
+}
+.b3 {
+    color: red;
+    left: 27px;
+    display: flex;
+    position: relative;
+    
+    
+}
+.b4 {
+    color: red;
+    left: 73px; 
+    display: flex;
+    position: relative;
+    
+    
+}
+.Fotos {
+    color: red;
+    width: 936px;
+    display: flex;
+    position: relative;
+    left: 800px;
+    font-size: 30px;
+    top: 7px;
+    font-size: 111px;
+}
+.fot {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto1 {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto3 {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto4 {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto7 {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto8 {
+    display: flex;
+    position: relative;
+    height: 50px;
+    top: 10px;
+    left: 10px;
+}
+.foto2 {
+    display: flex;
+    position: relative;
+    height: 500px;
+    top: 10px;
+    left: 10px;
+}
+.foto5 {
+    display: flex;
+    position: relative;
+    height: 250px;
+    top: 10px;
+    left: 10px;
+}
